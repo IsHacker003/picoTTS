@@ -5,6 +5,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+
 rootProject.name = "picoTTS"
 include ':picoTTS'
 include ':pico:compat'
