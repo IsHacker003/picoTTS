@@ -10,4 +10,5 @@ Xiaomi Redmi Note 7, lineageOS 20, Android 13\
 Pixel 6a, grapheneOS, Android 13\
 Nokia 3, Debloated stock ROM, Android 9\
 Xiaomi Redmi 13C, HyperOS 1, Android 14\
-Xiaomi Redmi 13C, HyperOS 2, Android 15
+Xiaomi Redmi 13C, HyperOS 2, Android 15\
+Tecno KL4, HiOS 14, Android 14 Go Edition
